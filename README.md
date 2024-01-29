@@ -12,7 +12,7 @@
   <img align="center" alt="Rodrigo-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rodrigo-Js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Rodrigo-Js" width="35" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Rodrigo-Js" width="30" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
 
  
   <img align="right" alt="Rodrigo-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/lcBy6r3.png">
